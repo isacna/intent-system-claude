@@ -1,5 +1,6 @@
 {
   "name": "intent-system-marketplace",
+  "description": "Marketplace do plugin intent-system: Intent-Driven Development (IDD) para Claude Code.",
   "owner": {
     "name": "Isac",
     "email": "isac@nmultifibra.com.br"
