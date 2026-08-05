@@ -1,0 +1,18 @@
+{
+  "name": "intent-system",
+  "description": "Intent-Driven Development (IDD) para Claude Code: capture intents via entrevista estruturada (Intent Storming), fatie o trabalho em packets autossuficientes publicados como GitHub Issues e conduza o ciclo de implementação, revisão e closeout com labels como máquina de estados.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Isac",
+    "email": "isac@nmultifibra.com.br"
+  },
+  "homepage": "https://www.intent-driven-development.com/",
+  "keywords": [
+    "intent-driven-development",
+    "idd",
+    "intent",
+    "packet",
+    "workflow",
+    "github-issues"
+  ]
+}

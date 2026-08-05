@@ -1,0 +1,14 @@
+{
+  "name": "intent-system-marketplace",
+  "owner": {
+    "name": "Isac",
+    "email": "isac@nmultifibra.com.br"
+  },
+  "plugins": [
+    {
+      "name": "intent-system",
+      "source": "./",
+      "description": "Intent-Driven Development (IDD) para Claude Code: intents, packets e ciclo de implementação via GitHub Issues."
+    }
+  ]
+}
