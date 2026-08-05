@@ -23,11 +23,9 @@ Intent (porquê e o quê)  →  Packet (contrato de uma fatia)  →  Code (últi
 ## Instalação
 
 ```
-/plugin marketplace add N-Multifibra/intent-system
+/plugin marketplace add isacna/intent-system-claude
 /plugin install intent-system
 ```
-
-> Repositório privado: é preciso ter acesso à org N-Multifibra e o `gh` CLI autenticado (`gh auth login`).
 
 
 ## Uso
